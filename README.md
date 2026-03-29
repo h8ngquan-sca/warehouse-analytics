@@ -122,8 +122,8 @@ These findings provide a data-driven foundation for **workforce planning, carrie
 
 ```
 warehouse-performance/
-├── warehouse_performance_analysis.ipynb   
-├── OB_Data_2025_S.csv                     # Dataset
+├── Warehouse_Performance_Analysis.ipynb   # Script
+├── OB_Data_2025_S.csv                     # Dataset (not included in repo)
 └── README.md                 
 ```
 
